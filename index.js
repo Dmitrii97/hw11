@@ -8,21 +8,9 @@ switch (weekDay) {
         break;
 
     case 'Monday':
-        weekDayResult = 'Working Day';
-        break;
-
     case 'Tuesday':
-        weekDayResult = 'Working Day';
-        break;
-
     case 'Wednesday':
-        weekDayResult = 'Working Day';
-        break;
-
     case 'Thursday':
-        weekDayResult = 'Working Day';
-        break;
-
     case 'Friday':
         weekDayResult = 'Working Day';
         break;
